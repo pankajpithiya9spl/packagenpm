@@ -1,9 +1,9 @@
 {
-  "name": "packagenpm",
+  "name": "@pankajpithiya9spl/packagenpm",
   "version": "0.1.0",
   "description": "React Pagination Component for Rails and other MVC Frameworks",
   "license": "MIT",
-  "repository": "piyushswain/react-rails-pagination",
+  "repository": "pankajpithiya9spl/packagenpm",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.js",
@@ -17,11 +17,11 @@
     "react-component",
     "pagination"
   ],
+  "homepage": "https://github.com/pankajpithiya9spl/packagenpm",
   "author": {
     "name": "Pankaj Pithiya",
     "email": "pankaj.pithiya@9spl.com"
   },
-  "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
